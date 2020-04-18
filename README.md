@@ -1,6 +1,6 @@
 # L-System
 Implementation of the Lindenmayer System in C  
-![Wikipedia](https://en.wikipedia.org/wiki/L-system)
+[Wikipedia](https://en.wikipedia.org/wiki/L-system)
 
 ## How to use
 ### Include file:
