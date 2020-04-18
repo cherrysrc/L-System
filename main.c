@@ -8,6 +8,7 @@
 
 char* replace(char c)
 {
+    //Cases for specific axiom replacements
     if (c == 'A')
     {
         char* p = (char*)calloc(3, sizeof(char));
@@ -22,6 +23,9 @@ char* replace(char c)
     }
     else
     {
+        //Base case
+        //Applies when there's no replacement rule for an axiom
+        //Just returns the input parameter as a char*
         char* p = (char*)calloc(2, sizeof(char));
         p[0] = c;
         p[1] = '\0';
