@@ -1,16 +1,15 @@
-<div style="text-align:center"><h1>L-System</h1></div>
+<h1 align="center">L-System</h1>
 
-<div style="text-align:center">
-<img src="https://img.shields.io/badge/-Language-blue?style=for-the-badge&logo=c" />
-</div>
+<p align="center">
+    <img src="https://img.shields.io/badge/-Language-blue?style=for-the-badge&logo=c" />
+</p>
 
-<div style="text-align:center">
-<br>
+<p style="text-align:center">
 Implementation of the Lindenmayer System in C <br>
 <a href="https://en.wikipedia.org/wiki/L-system">Wikipedia on Lindenmayer-Systems</a>
-</div>
+</p>
 
-<div style="text-align:center"><h2>How to use</21></div>
+<h2 align="center">How to use</h2>
 
 ### Include file:
 ```c
