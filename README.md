@@ -4,8 +4,10 @@
     <img src="https://img.shields.io/badge/-Language-blue?style=for-the-badge&logo=c" />
 </p>
 
-<p style="text-align:center">
-Implementation of the Lindenmayer System in C <br>
+<p align="center">
+Implementation of the Lindenmayer System in C
+</p>
+<p align="center">
 <a href="https://en.wikipedia.org/wiki/L-system">Wikipedia on Lindenmayer-Systems</a>
 </p>
 
