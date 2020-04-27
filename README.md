@@ -15,6 +15,7 @@ Implementation of the Lindenmayer System in C
 
 Compile and run:
 ```
+cmake .
 make LSystem
 ./LSystem
 ```
