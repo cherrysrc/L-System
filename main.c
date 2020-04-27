@@ -1,7 +1,7 @@
 // Implementation of the algae growth modelling l-system
 // Wikipedia: https://en.wikipedia.org/wiki/L-system#Example_1:_Algae
 
-#include "LSystem.h"
+#include "src/LSystem.h"
 
 #include <stdio.h>
 #include <stdlib.h>
