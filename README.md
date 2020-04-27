@@ -13,6 +13,12 @@ Implementation of the Lindenmayer System in C
 
 <h2 align="center">How to use</h2>
 
+Compile and run:
+```
+make LSystem
+./LSystem
+```
+
 ### Include file:
 ```c
 #include "LSystem.h"
